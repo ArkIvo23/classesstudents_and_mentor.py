@@ -1,7 +1,3 @@
-from PIL import Image
-img=Image.open(Shahter.jpg)
-img.show()
-
 
 
 Домашнее задание к лекции «Объекты и классы. Инкапсуляция, наследование и полиморфизм»
